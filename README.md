@@ -1,8 +1,13 @@
 # PII Scrubber 🛡️
 
-**PII Scrubber** is a robust Data Loss Prevention (DLP) tool designed to detect and redact Personally Identifiable Information (PII) from log files and datasets.
+**PII Scrubber** is a robust Data Loss Prevention (DLP) tool designed to detect and redact Personally Identifiable Information (PII) from sensitive health journals.
 
-Designed for Cyber Security contexts, it utilizes a hybrid approach combining **Regular Expressions (Regex)** for rigid patterns (like IDs and dates) and **Natural Language Processing (Spacy NLP)** for context-aware entity recognition (like names and clinics).
+Designed for Cyber Security and Healthcare contexts, it utilizes a **Deterministic Regular Expression (Regex)** engine to ensure 100% reproducibility and auditability. It specifically distinguishes between sensitive IDs and vital clinical metrics (like step counts and blood pressure).
+
+### 🚀 Key Features
+* **Deterministic Detection:** Uses optimized Regex patterns for precision.
+* **Context-Aware Scrubbing:** Distinguishes between generic numbers and health metrics.
+* **Audit Logs:** Generates a structured JSONL report of every redaction.
 
 ## 🚀 Key Features
 
