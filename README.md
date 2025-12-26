@@ -8,9 +8,6 @@ Designed for Cyber Security and Healthcare contexts, it utilizes a **Determinist
 * **Deterministic Detection:** Uses optimized Regex patterns for precision.
 * **Context-Aware Scrubbing:** Distinguishes between generic numbers and health metrics.
 * **Audit Logs:** Generates a structured JSONL report of every redaction.
-
-## 🚀 Key Features
-
 * **Hybrid Detection Engine:** Uses Regex for precision and AI (Spacy) for context.
 * **Context-Aware Scrubbing:** Distinguishes between generic organizations and Medical Providers (`[PROVIDER]`).
 * **Australian Localization:** Specialized support for Australian phone formats (`+61`) and dates (`DD/MM/YYYY`).
