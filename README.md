@@ -37,7 +37,7 @@ The tool automatically replaces sensitive data with the following standardized t
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Vaishnavitayde2036/PII_SCRUBBER_PROJECT.git](https://github.com/Vaishnavitayde2036/PII_SCRUBBER_PROJECT.git)
+    git clone [https://github.com/Vaishnavitayde2036/ashwam-be-ml-intern-Vaishnavi-Tayde.git](https://github.com/Vaishnavitayde2036/ashwam-be-ml-intern-Vaishnavi-Tayde.git)
     cd PII_SCRUBBER_PROJECT
     ```
 
