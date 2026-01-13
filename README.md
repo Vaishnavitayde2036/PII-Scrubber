@@ -37,8 +37,8 @@ The tool automatically replaces sensitive data with the following standardized t
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Vaishnavitayde2036/ashwam-be-ml-intern-Vaishnavi-Tayde.git](https://github.com/Vaishnavitayde2036/ashwam-be-ml-intern-Vaishnavi-Tayde.git)
-    cd ashwam-be-ml-intern-Vaishnavi-Tayde
+    git clone [https://github.com/Vaishnavitayde2036/PII Scrubber.git](https://github.com/Vaishnavitayde2036/PII Scrubber.git)
+    cd PII Scrubber
     ```
 
 2.  **Create a Virtual Environment:**
